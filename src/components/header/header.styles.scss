@@ -20,6 +20,18 @@
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
+      transition: 0.25s ease-in;
+
+      &:hover {
+        background: rgb(240, 240, 240);
+        border-radius: 10px;
+      }
+
+      &:active {
+        background: rgb(150, 150, 150);
+        color: white;
+      }
     }
   }
 }
