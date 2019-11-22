@@ -18,6 +18,11 @@
     align-items: center;
     justify-content: flex-end;
 
+    // @media (max-width: 750px) {
+    //   justify-content: space-between;
+    //   margin: auto;
+    // }
+
     .option {
       padding: 10px 15px;
       cursor: pointer;
