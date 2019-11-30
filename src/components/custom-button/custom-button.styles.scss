@@ -16,11 +16,6 @@
   display: flex;
   justify-content: center;
 
-  @media (max-width: 700px) {
-    // display: block;
-    width: 100%;
-  }
-
   &:hover {
     background-color: white;
     color: black;
