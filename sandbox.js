@@ -33,4 +33,6 @@ function fizzBuzz() {
   }
 }
 
+// Test
+
 console.log(fizzBuzz());
